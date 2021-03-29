@@ -8,4 +8,4 @@ Implemented with Object Nodes. Includes null head and tail pointer.
 Implemented with Linked List using Integer Nodes. 
 
 ## Binary Tree
-Coming Soon 
+Implemented basic Binary Search Tree (not height optiized), with recursive procedures for insert, delete, and search. 
